@@ -2,7 +2,7 @@
 Different exercises for job recruitment
 # Exercise 1
 1. You need to provision a new Web application
-2. This is a simple “hello world” page
+2. This is a simple “hello world” with little apples page
 3. The architecture should include : NodeJS, MongoDB, Containers.
 4. The runtime should be on any Linux distro you prefer
 5. Every component of the architecture should run on its own container
