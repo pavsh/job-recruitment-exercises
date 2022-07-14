@@ -13,8 +13,8 @@ Different exercises for job recruitment
   { "_id": 3, "name": "oranges", "qty": 6, "rating": 2 },
   { "_id": 4, "name": "avocados", "qty": 3, "rating": 5 },
 ]
-8. The exercise submission should be a git repo with the code.
-9. The exercise will be by provisioning the architecure by running the scripts in the repo
+8. The exercise submission should be a git repo with all the scripts and automation code to provision the architecture. 
+9. The exercise will be checked by running the scripts in the submitted repo. 
 10. Tests that the exercise should pass:
   - Provision from scratch of the entire architecture
   - The html returns the number of apples in the DB
