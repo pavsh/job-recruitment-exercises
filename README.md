@@ -17,7 +17,7 @@ Different exercises for job recruitment
 9. The exercise will be checked by running the scripts in the submitted repo. 
 10. Tests that the exercise should pass:
   - Provision from scratch of the entire architecture
-  - The html returns the number of apples in the DB
+  - The html page returns the number of apples in the DB
   - Visual demonstartion of the architecure (containers, netwrok topology etc..)
 11. Bonus
   - Full ci/cd pipeline with one of the cloud providers
