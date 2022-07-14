@@ -23,5 +23,5 @@ Different exercises for job recruitment
   - Full ci/cd pipeline with one of the cloud providers
   - Readme page in the git repo with guid that explains about the app, architecture design etc..
   - Load balancer 
-  - Your own ideas and will be welcome - create a PULL REQUEST to this branch:)
+  - Your own ideas will be welcome - create a PULL REQUEST to this branch:)
 12. At  the end of the demonstration you will be asked about the architecture design and the components to demonstrate the ability to learn and understand new areas and technology 
