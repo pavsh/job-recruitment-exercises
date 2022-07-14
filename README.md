@@ -24,4 +24,4 @@ Different exercises for job recruitment
   - Readme page in the git repo with guid that explains about the app, architecture design etc..
   - Load balancer 
   - Your own ideas will be welcome - create a PULL REQUEST to this branch:)
-12. At  the end of the demonstration you will be asked about the architecture design and the components to demonstrate the ability to learn and understand new areas and technology 
+12. At  the end of the exercise you will be asked about the architecture design and the components to demonstrate your ability to learn and understand new areas and technology. 
