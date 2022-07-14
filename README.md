@@ -5,7 +5,7 @@ Different exercises for job recruitment
 2. This is a simple “hello world” with  a little apples :) page
 3. The architecture should include : NodeJS, MongoDB, Containers.
 4. The runtime should be on any Linux distro you prefer
-5. Every component of the architecture should run on its own container
+5. Every component of the architecture should run in its own container
 6. All the architecture should be fully defined by scripts and code (IaC) saved in github
 7. The DB should contain this data:
  [ { "_id": 1, "name": "apples", "qty": 5, "rating": 3 },
